@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Yaroslav, I'm an Automation QA Engineer
+
+- 🔭 I’m currently working on ISsoft Ukraine;
+- 🤌 Previously have been working on Grid Dynamics for 2 years;
+- 🧠 Key skills:
+  - 🥷 Java: Selenium, Selenium (UI Testing), RestAssured (API testing), Appium (Mobile testing, Jmeter (Performance testing), Junit;
+  - 🦹‍♂️ JavaScript: Cypress;
+- 📫 You can reach me: urbanovych.qa@gmail.com
+
 
 <!--
 **Urbanovych/Urbanovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
