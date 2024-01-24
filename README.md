@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ISsoft Ukraine;
 - 🤌 Previously have been working on Grid Dynamics for 2 years;
 - 🧠 Key skills:
-  - 🥷 Java: Selenium, Selenium (UI Testing), RestAssured (API testing), Appium (Mobile testing, Jmeter (Performance testing), Junit;
+  - 🥷 Java: Selenium, Selenium (UI Testing), RestAssured (API testing), Appium (Mobile testing), Jmeter (Performance testing), Junit;
   - 🦹‍♂️ JavaScript: Cypress;
 - 📫 You can reach me: urbanovych.qa@gmail.com
 
